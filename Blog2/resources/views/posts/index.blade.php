@@ -42,5 +42,5 @@
         </tr>
         @endforeach
     </table>
-    !! 1data->links() !!
+    
     @endsection
